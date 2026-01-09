@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi there 
 
-<h2 align="center">Hi 👋, I'm Aadhiraa</h2>
+<h2 align="center">Hi, I'm Aadhiraa</h2>
 <p align="center">
 Computer Science Engineering with Data Science Student • Open Source Learner • Building stories with dashboards
 </p>
@@ -17,12 +17,12 @@ Computer Science Engineering with Data Science Student • Open Source Learner �
 <tr>
 <td width="60%">
 
-### 👩‍💻 About Me
+### About Me
 - 🎓 CSE Data Science student, passionate about problem solving  
 - 💡 Exploring Data Science & Backend systems  
 - 🚀 Building real-world projects  
 
-### 📬 Reach Me
+### Reach Me
 - 📧 Email: aadhiraag21@gmail.com.com  
 - 💼 LinkedIn: linkedin.com/in/aadhiraag  
 
@@ -37,7 +37,7 @@ Computer Science Engineering with Data Science Student • Open Source Learner �
 
 ---
 
-### 🛠 Tech Stack
+### Tech Stack
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white"/>
