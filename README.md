@@ -2,11 +2,10 @@
 
 <h2 align="center">Hi 👋, I'm Aadhiraa</h2>
 <p align="center">
-Computer Science Engineering Student • Open Source Learner • Building stories with dashboards
+Computer Science Engineering with Data Science Student • Open Source Learner • Building stories with dashboards
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40"/>
@@ -19,18 +18,18 @@ Computer Science Engineering Student • Open Source Learner • Building storie
 <td width="60%">
 
 ### 👩‍💻 About Me
-- 🎓 CSE student Data Science student, passionate about problem solving  
+- 🎓 CSE Data Science student, passionate about problem solving  
 - 💡 Exploring Data Science & Backend systems  
 - 🚀 Building real-world projects  
 
 ### 📬 Reach Me
-- 📧 Email: yourmail@gmail.com  
-- 💼 LinkedIn: linkedin.com/in/yourname  
+- 📧 Email: aadhiraag21@gmail.com.com  
+- 💼 LinkedIn: linkedin.com/in/aadhiraag  
 
 </td>
 <td width="40%" align="center">
 
-<img src="https://illustrations.popsy.co/gray/tech-girl.svg" width="250"/>
+<img src="https://undraw_all-the-data_ijgn.svg" width="250"/>
 
 </td>
 </tr>
