@@ -2,7 +2,7 @@
 
 <h2 align="center">Hi 👋, I'm Aadhiraa</h2>
 <p align="center">
-Computer Science Engineering Student • Open Source Learner • Linux Enthusiast
+Computer Science Engineering Student • Open Source Learner • Building stories with dashboards
 </p>
 
 <p align="center">
@@ -19,8 +19,7 @@ Computer Science Engineering Student • Open Source Learner • Linux Enthusias
 <td width="60%">
 
 ### 👩‍💻 About Me
-- 🎓 CSE student passionate about problem solving  
-- 🐧 Comfortable in Linux environments  
+- 🎓 CSE student Data Science student, passionate about problem solving  
 - 💡 Exploring Data Science & Backend systems  
 - 🚀 Building real-world projects  
 
