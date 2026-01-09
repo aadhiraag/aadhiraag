@@ -29,7 +29,7 @@ Computer Science Engineering with Data Science Student â€¢ Open Source Learner â
 </td>
 <td width="40%" align="center">
 
-<img src="https://undraw_all-the-data_ijgn.svg" width="250"/>
+<img src="assets/undraw_all-the-data_ijgn.svg" width="260"/>
 
 </td>
 </tr>
